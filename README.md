@@ -1,3 +1,3 @@
-# itty-aucrocy
-Documentation Good First Issue
+#itty-aucrocy
+Documentation Good First Issue.
 
